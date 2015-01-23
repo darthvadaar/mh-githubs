@@ -8,5 +8,6 @@ Please preserve sorted order (by first name).
 - Menushka Weeratunga https://github.com/ChaosGodEX
 - Paul Krishnamurthy https://github.com/paulKr
 - Rikin Katyal https://github.com/rikinkatyal
+- Sid Bedekar https://github.com/darthvadaar
 - Yuri Chernyak https://github.com/yurichernyak
 
